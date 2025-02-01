@@ -38,6 +38,13 @@ A proposta deste projeto foi replicar uma página do Spotify utilizando as tecno
 
 Para rodar o projeto na sua máquina, siga as instruções abaixo:
 
+
+como iniciar o json-server:
+
+npm i json-server -g
+
+json-server --watch api-artists/artists.json --port 3000
+ 
 1. **Clone o projeto:**
 
 ```bash

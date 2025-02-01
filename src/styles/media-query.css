@@ -1,5 +1,24 @@
+@media screen and (max-width: 1300px) {
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+}
 @media screen and (max-width: 1015px) {
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+      }
+}
+@media screen and (max-width: 915px) {
     
+      .playlist-container {
+        height: 90vh;
+        width: 70vw;
+      }
+      #result-artist{
+        min-width: 500px;
+      }
+          
+      
 }
 
 
