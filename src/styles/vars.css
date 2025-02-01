@@ -25,9 +25,16 @@
     --card13: rgb(186, 93, 7);
     --card14: rgb(0, 30, 80);
     --card15: rgb(60, 30, 80);
+
+    --selection: rgb(106, 8, 156);
   
     /* Fonts */
     --font-dm-sans: "DM Sans", sans-serif;
+  }
+
+  ::selection{
+    background-color: var(--selection);
+    color: var(--text-base-light);
   }
   
   /* MEDIA QUERYS */
