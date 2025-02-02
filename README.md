@@ -3,7 +3,7 @@
 
 Este projeto é uma réplica da interface do **Spotify**, desenvolvida durante a **Imersão Front-End da Alura**. O objetivo é praticar as habilidades em **HTML**, **CSS** e **JavaScript**, com uma integração de **JSON** para a exibição dinâmica de dados, como artistas e músicas, com base na busca realizada pelo usuário.
 
-![Imagem do Projeto Final](caminho-da-imagem.png)
+![Imagem do Projeto Final](project.png)
 
 ---
 
@@ -35,15 +35,6 @@ A proposta deste projeto foi replicar uma página do Spotify utilizando as tecno
 ---
 
 ### 💾 Como Rodar Localmente
-
-Para rodar o projeto na sua máquina, siga as instruções abaixo:
-
-
-como iniciar o json-server:
-
-npm i json-server -g
-
-json-server --watch api-artists/artists.json --port 3000
  
 1. **Clone o projeto:**
 
@@ -57,21 +48,21 @@ git clone https://github.com/eduardavieira-dev/Spotify-alura.git
 cd Spotify-alura
 ```
 
-3. **Instale as dependências:**
+3. **Instale o Json na sua maquina:**
 
 ```bash
-npm install
+npm i json-server -g
 ```
 
-4. **Inicie o servidor de desenvolvimento:**
+4. **Inicie o Json:**
 
 ```bash
-npm run start
+json-server --watch api-artists/artists.json --port 3000
 ```
 
 5. **Acesse a aplicação no seu navegador:**
 
-Abra `http://localhost:3000` para visualizar o projeto em funcionamento.
+Abra o index.html no seu browser.
 
 ---
 

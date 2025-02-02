@@ -5,8 +5,8 @@
       { "id": 3, "name": "Laufey", "genre": "Indie", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb71eb8f92b86868400ed4e006" },
       { "id": 4, "name": "Ana Castela", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb0de2a5d8b6227f8ee99d2176" },
       { "id": 5, "name": "Lana Del Rey", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261" },
-      { "id": 6, "name": "Taylor Swift", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676" },
-      { "id": 7, "name": "Thiaguinho", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174071b58b184ca57b4ce719c69" },
-      { "id": 8, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" }
+      { "id": 6, "name": "Thiaguinho", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174071b58b184ca57b4ce719c69" },
+      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+      { "id": 8, "name": "Taylor Swift", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676" }
     ]
   }
